@@ -55,7 +55,7 @@ function App() {
 
 	return ( 
 		<div className="App"> 
-			<h1>Paint App</h1> 
+			<h1>Paint App - By Nidhi Upman</h1> 
 			<div className="draw-area"> 
 				<Menu 
 					setLineColor={setLineColor} 
